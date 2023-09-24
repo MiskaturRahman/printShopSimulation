@@ -29,8 +29,8 @@ class Simulation
         {
             new Employee("Miskatur", "Photocopy"),
             new Employee("Fayex", "Printing"),
-            new Employee("Aun", "Hardcover Binding"),
-            new Employee("ilhan", "Laminating")
+            new Employee("Aun", "Payment"),
+            new Employee("ilhan", "Register")
         };
 
         // Simulation time loop
