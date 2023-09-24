@@ -27,10 +27,10 @@ class Simulation
         // Create employee objects with tasks
         List<Employee> employees = new List<Employee>
         {
-            new Employee("Norhanis Athirah", "Photocopy"),
-            new Employee("Nur Ainaa Hazirah", "Printing"),
-            new Employee("Maizurah", "Hardcover Binding"),
-            new Employee("Aish Afryna", "Laminating")
+            new Employee("Miskatur", "Photocopy"),
+            new Employee("Fayex", "Printing"),
+            new Employee("Aun", "Hardcover Binding"),
+            new Employee("ilhan", "Laminating")
         };
 
         // Simulation time loop
