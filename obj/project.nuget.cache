@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "APRXpja84WC77TsP6K8K37aZ4ukDuYBMrrZElo/RZ0XxXkWyuuTEShCY5GHMDfg+BWVCK/jL4XVtb5V0VIRaGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive - Universiti Teknologi PETRONAS\\SEM_8\\TEB2103 Modelling and Simulation\\PrintShop\\PrintShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

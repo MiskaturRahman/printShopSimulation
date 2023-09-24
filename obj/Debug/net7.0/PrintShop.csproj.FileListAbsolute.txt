@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive - Universiti Teknologi PETRONAS\SEM_8\TEB2103 Modelling and Simulation\PrintShop\bin\Debug\net7.0\PrintShop.exe
+C:\Users\Lenovo\OneDrive - Universiti Teknologi PETRONAS\SEM_8\TEB2103 Modelling and Simulation\PrintShop\bin\Debug\net7.0\PrintShop.deps.json
+C:\Users\Lenovo\OneDrive - Universiti Teknologi PETRONAS\SEM_8\TEB2103 Modelling and Simulation\PrintShop\bin\Debug\net7.0\PrintShop.runtimeconfig.json
+C:\Users\Lenovo\OneDrive - Universiti Teknologi PETRONAS\SEM_8\TEB2103 Modelling and Simulation\PrintShop\bin\Debug\net7.0\PrintShop.dll
+C:\Users\Lenovo\OneDrive - Universiti Teknologi PETRONAS\SEM_8\TEB2103 Modelling and Simulation\PrintShop\bin\Debug\net7.0\PrintShop.pdb
+C:\Users\Lenovo\OneDrive - Universiti Teknologi PETRONAS\SEM_8\TEB2103 Modelling and Simulation\PrintShop\bin\Debug\net7.0\MathNet.Numerics.dll
+C:\Users\Lenovo\OneDrive - Universiti Teknologi PETRONAS\SEM_8\TEB2103 Modelling and Simulation\PrintShop\obj\Debug\net7.0\PrintShop.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Universiti Teknologi PETRONAS\SEM_8\TEB2103 Modelling and Simulation\PrintShop\obj\Debug\net7.0\PrintShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Universiti Teknologi PETRONAS\SEM_8\TEB2103 Modelling and Simulation\PrintShop\obj\Debug\net7.0\PrintShop.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Universiti Teknologi PETRONAS\SEM_8\TEB2103 Modelling and Simulation\PrintShop\obj\Debug\net7.0\PrintShop.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Universiti Teknologi PETRONAS\SEM_8\TEB2103 Modelling and Simulation\PrintShop\obj\Debug\net7.0\PrintShop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Universiti Teknologi PETRONAS\SEM_8\TEB2103 Modelling and Simulation\PrintShop\obj\Debug\net7.0\PrintShop.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive - Universiti Teknologi PETRONAS\SEM_8\TEB2103 Modelling and Simulation\PrintShop\obj\Debug\net7.0\PrintShop.dll
+C:\Users\Lenovo\OneDrive - Universiti Teknologi PETRONAS\SEM_8\TEB2103 Modelling and Simulation\PrintShop\obj\Debug\net7.0\refint\PrintShop.dll
+C:\Users\Lenovo\OneDrive - Universiti Teknologi PETRONAS\SEM_8\TEB2103 Modelling and Simulation\PrintShop\obj\Debug\net7.0\PrintShop.pdb
+C:\Users\Lenovo\OneDrive - Universiti Teknologi PETRONAS\SEM_8\TEB2103 Modelling and Simulation\PrintShop\obj\Debug\net7.0\PrintShop.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive - Universiti Teknologi PETRONAS\SEM_8\TEB2103 Modelling and Simulation\PrintShop\obj\Debug\net7.0\ref\PrintShop.dll
